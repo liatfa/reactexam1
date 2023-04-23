@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/reactexam1/static/css/main.073c9b0a.css",
+    "main.js": "/reactexam1/static/js/main.37825532.js",
+    "static/js/787.fc5870f5.chunk.js": "/reactexam1/static/js/787.fc5870f5.chunk.js",
+    "index.html": "/reactexam1/index.html",
+    "main.073c9b0a.css.map": "/reactexam1/static/css/main.073c9b0a.css.map",
+    "main.37825532.js.map": "/reactexam1/static/js/main.37825532.js.map",
+    "787.fc5870f5.chunk.js.map": "/reactexam1/static/js/787.fc5870f5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.37825532.js"
+  ]
+}
